@@ -90,6 +90,7 @@ get '/calculate' do
 
 end
 
+puts "test"
 
 
 
